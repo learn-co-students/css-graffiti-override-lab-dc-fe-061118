@@ -1,1 +1,8 @@
 /* write your override styles here */
+#wall .tag-1{display:none;}
+body #wall #tag-2{display:none;}
+html body #wall #tag-2 + #tag-3.slick{
+  display:none;
+  
+}
+/*Where is my error sdsan dojns d osando ndsanf oifn oifn saoifsa n oanfoi naofi nsafoisa nfaosa ofnmsaf soif mds mfds oifmdspoifms ogimds idsm fpmdsf d pimspifmf pmspf mpds mfpdsmf mf dspimf sfdpimds pfmsp imfpdsi mfpidsmfmds fmdsfpmsf pimpids mfpids mfspimfpdsifmspi mfpismf pidsfmpidmff pimds pimfsp mfspimdf pismfpdsmf psimf pismf pidsmfdspimfdspi mfpidf mdspifmpimfdspi mfpismfd pidsmfpidsmpfdmspifdsm pfdsmfpdsm fpismfdpismf pims pifmdsf pimdsmpif spi mfpis*/
